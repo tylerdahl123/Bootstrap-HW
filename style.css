@@ -1,0 +1,23 @@
+body {
+    background: grey;
+}
+
+
+.aboutme  h5{
+    color: lightblue;
+}
+
+
+#main-content {
+    float:left;
+    background:white;
+    margin-top: 25px;
+    padding:30px;
+    padding-top:15px;
+    
+
+}
+
+.img-thumbnail {
+    margin-right:20px;
+}
