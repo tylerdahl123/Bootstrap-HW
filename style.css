@@ -1,5 +1,4 @@
-body {
-    background: grey;
+body { background-image: la-pieta-renaissance-sculpture-michelangelo-buonarroti-inside-st-peter-s-basilica-vatican-italy-december-pity-135242836.jpg;
 }
 
 
@@ -9,11 +8,17 @@ body {
 
 
 .main-content {
-    background:white;
+    background-color: transparent grey;
     margin-top: 25px;
     padding:20px;
     padding-top:15px;
     float: left;
+}
+.main-content h1{ color:white;
+
+}
+p {
+    color: white;
 }
 .navlink {
     right:33.3%;
@@ -26,11 +31,20 @@ body {
 }
 
 .main-content2{
-    background:white;
+    background:grey;
     margin:20px;
     padding:20px;
 }
-
+.main-content2 h1 {
+    color: white;
+}
+.main-content2 label{
+    color:white;
+}
 .img-thumbnail {
     border:10px;
+}
+
+.img-fluid {
+    margin:10px;
 }
