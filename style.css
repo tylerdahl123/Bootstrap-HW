@@ -20,7 +20,7 @@ body { background-color: darkslategrey;
 .main-content {
     background-color: grey;
     margin-top: 25px;
-    padding:20px;
+    padding:10px;
     padding-top:15px;
     float: left;
 }
@@ -59,8 +59,15 @@ p {
     margin:10px;
 }
 
+@media screen and (max-width: 992px){
+    body { background-color: darkslategrey;
 
-@media screen and (max-width: 768px) {
+}
+.wrapper {
+    width:100%;
+}
+
+@media screen and (max-width: 767px) {
     body {
       background-color: #333;
     }
