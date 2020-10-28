@@ -108,7 +108,7 @@ p {
     }
   
     .wrapper {
-        width:100%;
+        width:600px;
     }
     .main-content {
        margin:20px;
@@ -133,14 +133,16 @@ p {
           }
         
           .wrapper {
-              width:100%;
+              width:200px;
           }
           .main-content {
              margin:20px;
+             
           }
       
           .main-content2 {
               margin:20px;
+              
               
           }
       .main-content3{
