@@ -80,7 +80,7 @@ p {
 
 }
 
-@media screen and (max-width: 992px){
+@media screen and (max-width: 1024px){
     body { background-color: #333;
 
 }
@@ -100,8 +100,7 @@ p {
 .main-content3{
     margin:20px;
 }
-
-
+}
 @media screen and (max-width: 768px) {
     body {
       background-color: #333;
@@ -127,13 +126,14 @@ p {
 
 }
 
- @media screen and (max-width: 400px) {
+ @media screen and (max-width: 600px) {
         body {
             background-color: #333;
           }
         
           .wrapper {
-              width:200px;
+              width:320px;
+              float:left;
           }
           .main-content {
              margin:20px;
@@ -148,3 +148,6 @@ p {
       .main-content3{
           margin:20px;
       }
+    }
+
+    
