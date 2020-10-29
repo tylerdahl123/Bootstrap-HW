@@ -16,6 +16,8 @@ This page is going to be used as my personal portfolio page. I will upload pictu
 
 I would like to thank Bryan Swarthout and Wilson Lam for providing the basic idea for the webpage and the knowledge and supplemental code necessary to begin.
 
+I also used https://validator.w3.org/ as a free tool to validate my HTMl. 
+
 
 
 ## License
