@@ -7,7 +7,9 @@ body { background-color: #333;
     font-size: 18px;
     line-height: 27px;
 }
-
+.aboutlink{
+    color: red;
+}
 .wrapper {
     width:1024px;
     margin: 40px auto;
@@ -35,9 +37,25 @@ body { background-color: #333;
 }
 p {
     color: white;
+    font-size: 14px;
+}
+.repoBtn {
+    width:100%;
+    color: white;
+    padding: 15px;
+    margin: 15px;
+    cursor: pointer;
+    text-align: center;
+    background-color: rgb(204, 201, 201);
+    display: inline-block;
+    
+
 }
 
-
+ li {
+        color: white;
+        font-size: 25px;
+    }
 .main-content2{
     background-color: grey;
     margin-top: 25px;
@@ -77,6 +95,7 @@ p {
 .img-fluid {
     margin:10px;
     width:100%;
+
 
 }
 
@@ -150,4 +169,4 @@ p {
       }
     }
 
-    
+   
