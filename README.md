@@ -1,4 +1,4 @@
-# Bootstrap-HW
+# PORTFOLIO_HW
 For this project I was tasked with making a responsive portfolio design. I was also supposed to utilize bootstrap components like then navbar and contact page. I created 3 html pages in total all linked to one css style page. For my index.html I have my Home/about me information along with a navbar from boostrap. For my second html page titled 'contact.html' I created the programming for my contact page. I used a bootstrap navbar to keep it consistent and also used the bootstrap property for the overall contact form. For my third page titled 'portfolio' I created the programming for my portfolio page. One this page I also included a bootstrap navbar as well as the bootstrap properties for responsive images. Throughout the html pages I made use of the Grid components system to be able to get my pieces where I needed them. For my css page titled style.css. I tried to keep the styling consistent throughout each page. I used the @media tag to make the pages responsive to shrinking of the window. 
 
 
